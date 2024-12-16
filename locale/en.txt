@@ -20,41 +20,39 @@ panorama_659D3530_6F42_5379_41A2_70B3E23FE3B3.subtitle = Main Building 1st Floor
 panorama_6593123F_6F43_F167_4197_1216D726BA8B.subtitle = Main Building 1st Floor
 panorama_659CF014_6F43_B138_4185_BB41283D9058.subtitle = Main Building 1st Floor
 panorama_8399B1C4_923E_8342_41BB_58D121654F0F.subtitle = Main Building 1st Floor
-panorama_659D7E90_6F42_7139_41D0_C1383C3B59BB.subtitle = Main Building 1st Floor
 panorama_659D92F7_6F42_B6E7_41D3_6C99621E9D4D.subtitle = Main Building 1st Floor
-panorama_659FA485_6F42_711B_41DB_C426B069C65B.subtitle = Main Building 1st Floor
-panorama_659CB794_6F42_BF39_41C6_4D9A954E013C.subtitle = Main Building 1st Floor
+panorama_659C4232_6F42_D178_41D9_2C3D0C8C6050.subtitle = Main Building 1st Floor
 panorama_659D6F25_6F42_6F1B_41B3_F51E8EC06F0D.subtitle = Main Building 1st Floor
+panorama_659D7E90_6F42_7139_41D0_C1383C3B59BB.subtitle = Main Building 1st Floor
 panorama_659066AA_6F46_D168_41D3_F42646953276.subtitle = Main Building 1st Floor
+panorama_659CB794_6F42_BF39_41C6_4D9A954E013C.subtitle = Main Building 1st Floor
 panorama_659CB956_6F42_D339_41DB_8AF5521358AC.subtitle = Main Building 1st Floor
 panorama_659C0487_6F42_D127_41BE_CAE8F1F68B31.subtitle = Main Building 1st Floor
 panorama_659C3C94_6F42_D138_41D3_214562DF11B1.subtitle = Main Building 1st Floor
-panorama_659C4232_6F42_D178_41D9_2C3D0C8C6050.subtitle = Main Building 1st Floor
-panorama_65920E27_6F42_F118_41DA_16D490AD4134.subtitle = Main Building 2nd Floor
-panorama_659207E0_6F42_DF18_41D1_F68DFCA76E22.subtitle = Main Building 2nd Floor
-panorama_6591179F_6F42_5F27_41AB_2D89A5A70FA2.subtitle = Main Building 2nd Floor
-panorama_6597592D_6F45_B368_41D5_F2B98674E7F9.subtitle = Main Building 2nd Floor
+panorama_659FA485_6F42_711B_41DB_C426B069C65B.subtitle = Main Building 1st Floor
+panorama_659225FE_6F42_B2E8_41D0_4AC539ADB3A0.subtitle = Main Building 2nd Floor
 panorama_65925ACF_6F42_D128_41B8_11D07229F808.subtitle = Main Building 2nd Floor
+panorama_6597592D_6F45_B368_41D5_F2B98674E7F9.subtitle = Main Building 2nd Floor
 panorama_6591F74B_6F42_BF28_41CF_D90952B94596.subtitle = Main Building 2nd Floor
+panorama_65914494_6F42_5139_41BB_8DAFD8DA2D81.subtitle = Main Building 2nd Floor
 panorama_659745A0_6F45_F319_41D2_92ECEDC8CAB9.subtitle = Main Building 2nd Floor
 panorama_65976AF8_6F45_F6E9_41DB_6A671565EF4B.subtitle = Main Building 2nd Floor
-panorama_659225FE_6F42_B2E8_41D0_4AC539ADB3A0.subtitle = Main Building 2nd Floor
 panorama_65975A20_6F45_D118_41C9_4479834AD152.subtitle = Main Building 2nd Floor
 panorama_65978CAE_6F45_B168_4190_6DE839C3DBFF.subtitle = Main Building 2nd Floor
 panorama_6597B2AB_6F45_B16F_41C2_518358CCC698.subtitle = Main Building 2nd Floor
 panorama_6590FF8F_6F46_AF27_41C3_8A147DD3EBB1.subtitle = Main Building 2nd Floor
 panorama_65901ADE_6F46_F128_41BB_0454B4BF8E3D.subtitle = Main Building 2nd Floor
 panorama_6592449B_6F42_5128_41D9_C804C9A57346.subtitle = Main Building 2nd Floor
+panorama_6591179F_6F42_5F27_41AB_2D89A5A70FA2.subtitle = Main Building 2nd Floor
 panorama_6590C65F_6F42_7128_41D8_7D2C751941F0.subtitle = Main Building 2nd Floor
-panorama_65914494_6F42_5139_41BB_8DAFD8DA2D81.subtitle = Main Building 2nd Floor
 
 ### Title
-panorama_65914494_6F42_5139_41BB_8DAFD8DA2D81.label = Aisle
+panorama_6590C65F_6F42_7128_41D8_7D2C751941F0.label = Aisle
 panorama_659D92F7_6F42_B6E7_41D3_6C99621E9D4D.label = Aisle
 panorama_65978CAE_6F45_B168_4190_6DE839C3DBFF.label = Aisle
 panorama_6597B2AB_6F45_B16F_41C2_518358CCC698.label = Aisle
 panorama_659C0487_6F42_D127_41BE_CAE8F1F68B31.label = Aisle
-panorama_6590C65F_6F42_7128_41D8_7D2C751941F0.label = Aisle
+panorama_65914494_6F42_5139_41BB_8DAFD8DA2D81.label = Aisle
 panorama_659D6F25_6F42_6F1B_41B3_F51E8EC06F0D.label = Aisle
 panorama_659FCE3E_6F42_7169_41D5_3F8A6548B23F.label = Aisle
 panorama_65925ACF_6F42_D128_41B8_11D07229F808.label = Aisle
@@ -84,26 +82,15 @@ panorama_6593F501_6F43_B318_41D4_4CE131E9AC20.label = PDIP Fraction Room
 panorama_659CF014_6F43_B138_4185_BB41283D9058.label = PKB Fraction Room
 panorama_6593123F_6F43_F167_4197_1216D726BA8B.label = PKS, Gerindra, Hanura Fraction Room
 panorama_6599DEE7_6F4D_AEE7_41D6_ED03E4093438.label = Parking lot
-panorama_6590FF8F_6F46_AF27_41C3_8A147DD3EBB1.label = Plenary Meeting Room
 panorama_65901ADE_6F46_F128_41BB_0454B4BF8E3D.label = Plenary Meeting Room
+panorama_6590FF8F_6F46_AF27_41C3_8A147DD3EBB1.label = Plenary Meeting Room
 panorama_659C3C94_6F42_D138_41D3_214562DF11B1.label = Programme and finance room
 panorama_659E3A64_6F4D_D118_41DA_38EFD227679A.label = Road to Additional Facilities
 panorama_659CB794_6F42_BF39_41C6_4D9A954E013C.label = Supervision and budgeting room
 panorama_659EBB36_6F4D_F778_41D0_B1F20502A3BD.label = Tennis courts
-panorama_65920E27_6F42_F118_41DA_16D490AD4134.label = Vice Chairman I's room
-panorama_659207E0_6F42_DF18_41D1_F68DFCA76E22.label = Vice Chairman II's room
 panorama_659745A0_6F45_F319_41D2_92ECEDC8CAB9.label = Wisnuwardhana meeting room
 
 ## Skin
-
-### Button
-Button_6DD378D5_708B_6EC8_41C5_236CED2E3FDD.label = Contact Information
-Button_6DD308D5_708B_6EC8_41C5_39B8EDBB2F72.label = Floorplan
-Button_6DD0E8D5_708B_6EC8_41BA_FD91340A18F6.pressedLabel = Location
-Button_6DD0E8D5_708B_6EC8_41BA_FD91340A18F6.label = Location
-Button_6DD0C8D5_708B_6EC8_41C0_1EAEDCDA8CA3.label = Panorama List
-Button_6DD328D5_708B_6EC8_41D3_144ABA103334.label = Photoalbum
-Button_6DD0B8D5_708B_6EC8_41C6_CA848CE483D3.label = Tour Information
 
 ### Label
 Label_6CBD8554_7145_F339_41C5_FAD57D4B8779.text = {{subtitle}}
@@ -115,7 +102,7 @@ HTMLText_66FA841B_718F_A579_41D1_51488953D371.html = <div style="text-align:left
 HTMLText_67FCC1D2_718E_DEC8_41C0_4FF3B2A63EA1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Times New Roman', Times, serif;"><B>Show/Hide Hotspots</B></SPAN></SPAN></DIV></div>
 HTMLText_66BB6887_7189_ED48_41D8_63530BC05780.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Times New Roman', Times, serif;"><B>Toggle Fullscreen</B></SPAN></SPAN></DIV></div>
 HTMLText_644D30EA_717A_DEDB_41D1_40E6A3DFC7E5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Times New Roman', Times, serif;"><B>Toggle Mute</B></SPAN></SPAN></DIV></div>
-HTMLText_6DD218D5_708B_6EC8_41C7_10C1B94C18BC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_AAD4A4C2_BB8C_B716_41E6_FE0DE72AC501.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:3.91vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
